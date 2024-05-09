@@ -30,7 +30,7 @@ This Python script enumerates all Amazon Web Services (AWS) EC2 instances across
 ## Usage
 Run the script using Python:
 ```bash
-python ec2_instance_counter.py
+python johndcyber_ec2_instance_counter.py
 ```
 
 ## Output
