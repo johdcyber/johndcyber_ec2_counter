@@ -1,5 +1,5 @@
 
-# AWS EC2 Instance Counter
+# John D Cyber's AWS EC2 Instance Counter
 
 ## Overview
 This Python script enumerates all Amazon Web Services (AWS) EC2 instances across all regions associated with a given AWS account and writes the total count to a CSV file. This is useful for inventory management and monitoring of AWS resources.
